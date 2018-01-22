@@ -1,6 +1,6 @@
 {
   "name": "redux-actions-flow",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple side effects to redux actions - callbacks before and after. (ie saga lite).",
   "author": "Michal Palys-Dudek <michal@palys-dudek.pl>",
   "license": "MIT",
